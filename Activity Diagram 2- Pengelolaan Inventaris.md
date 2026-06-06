@@ -1,3 +1,4 @@
+```plantuml
 @startuml
 
 |Seller|
@@ -74,3 +75,5 @@ endif
 stop
 
 @enduml
+
+```
