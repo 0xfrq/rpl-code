@@ -1,3 +1,4 @@
+```plantuml
 @startuml
 
 actor Customer
@@ -65,3 +66,5 @@ else Stok tidak tersedia
 end
 
 @enduml
+
+```
